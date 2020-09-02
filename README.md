@@ -1,3 +1,3 @@
 # NLP-project
 
-Text Prediction Project based on Sherlock Holmes texts
+Text Prediction Project in the style of Sherlock Holmes
